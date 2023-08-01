@@ -1,1 +1,3 @@
-cp wofi ~/.config 
+cp wofi ~/.config
+cp sway ~/.config
+cp waybar ~/.config
