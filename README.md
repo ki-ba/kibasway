@@ -1,7 +1,7 @@
 # kibasway
-my config files for sway, swaybar, wofi
+my config files for sway, swaybar, wofi and foot.
 
-Very simple configuration for Sway with gaps and custom waybar.
+Very simple configuration for Sway with gaps and custom waybar, foot theme.
 
 
 ## Features

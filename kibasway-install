@@ -1,4 +1,5 @@
 cp wofi ~/.config
 cp sway ~/.config
 cp waybar ~/.config
+cp foot ~/.config
 cp wallpaper.png /usr/share/backgrounds/kiba-sway-wallpaper.png
