@@ -10,8 +10,8 @@ just style
 
 ## Installation
 
-clone in your home directory, then run ``` .kibasway-install```
+clone in your home directory, then run ```.kibasway-install```
 
 ## Dependencies
 
-Of course you need sway, waybar, and wofi. You can chose not to use wofi and/or waybar : just remember to remove wofi and waybar directories in your .config and to edit ``` ~/.config/sway/config```  accordingly.
+Of course you need sway, waybar, and wofi. You can chose not to use wofi and/or waybar : just remember to remove wofi and waybar directories in your .config and to edit ```~/.config/sway/config```  accordingly.
