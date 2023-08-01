@@ -3,14 +3,17 @@ my config files for sway, swaybar, wofi and foot.
 
 Very simple configuration for Sway with gaps and custom waybar, foot theme.
 
+## Screenshots
+![Wallpaper](images/screenshot2.png)
+![Typical screen view](images/screenshot.png)
 
 ## Features
 
-just style
+just style.
 
 ## Installation
 
-clone in your home directory, then run ```.kibasway-install```
+clone in your home directory, then run ```kibasway-install```
 
 ## Dependencies
 
