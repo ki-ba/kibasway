@@ -1,0 +1,427 @@
+[3838:0801/115400.192642:WARNING:wayland_object.cc(144)] Binding to zwp_linux_dmabuf_v1 version 3 but version 4 is available.
+[3838:0801/115400.192752:WARNING:wayland_object.cc(144)] Binding to wl_seat version 5 but version 8 is available.
+[3838:0801/115400.192761:WARNING:wayland_object.cc(144)] Binding to zwp_pointer_gestures_v1 version 1 but version 3 is available.
+[3838:0801/115400.257470:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[3877:0801/115400.295583:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is egl, ANGLE is
+[3877:0801/115400.297961:WARNING:sandbox_linux.cc(380)] InitializeSandbox() called with multiple threads in process gpu-process.
+[90m[main 2023-08-01T09:54:00.321Z][0m [File Watcher (node.js)] Request to start watching: /home/kiba/.config/Code - OSS/User (excludes: <none>, includes: <all>),/home/kiba/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>)
+[90m[main 2023-08-01T09:54:00.331Z][0m Starting VS Code
+[90m[main 2023-08-01T09:54:00.331Z][0m from: /usr/lib/code
+[90m[main 2023-08-01T09:54:00.331Z][0m args: {
+  _: [],
+  diff: false,
+  merge: false,
+  add: false,
+  goto: false,
+  'new-window': false,
+  'reuse-window': false,
+  wait: false,
+  help: false,
+  'list-extensions': false,
+  'show-versions': false,
+  'pre-release': false,
+  version: false,
+  verbose: true,
+  status: false,
+  'prof-startup': false,
+  'no-cached-data': false,
+  'prof-v8-extensions': false,
+  'disable-extensions': false,
+  'disable-gpu': false,
+  'ms-enable-electron-run-as-node': false,
+  telemetry: false,
+  debugRenderer: false,
+  'enable-smoke-test-driver': false,
+  logExtensionHostCommunication: false,
+  'skip-release-notes': false,
+  'skip-welcome': false,
+  'disable-telemetry': false,
+  'disable-updates': false,
+  'disable-keytar': false,
+  'disable-workspace-trust': false,
+  'disable-crash-reporter': false,
+  'skip-add-to-recently-opened': false,
+  'unity-launch': false,
+  'open-url': false,
+  'file-write': false,
+  'file-chmod': false,
+  force: false,
+  'do-not-sync': false,
+  trace: false,
+  'force-user-env': false,
+  'force-disable-user-env': false,
+  'open-devtools': false,
+  'disable-gpu-sandbox': false,
+  '__enable-file-policy': false,
+  'enable-coi': false,
+  'no-proxy-server': false,
+  'no-sandbox': false,
+  nolazy: false,
+  'force-renderer-accessibility': false,
+  'ignore-certificate-errors': false,
+  'allow-insecure-localhost': false,
+  'disable-dev-shm-usage': false,
+  'profile-temp': false,
+  logsPath: '/home/kiba/.config/Code - OSS/logs/20230801T115400'
+}
+[90m[main 2023-08-01T09:54:00.332Z][0m Resolving machine identifier...
+[90m[main 2023-08-01T09:54:00.332Z][0m Resolved machine identifier: 7c55bf8293a073ee9dafde026ab33af639eb919863673aec4fc7d694f4066d11
+[90m[main 2023-08-01T09:54:00.332Z][0m Main->SharedProcess#connect
+[90m[main 2023-08-01T09:54:00.335Z][0m [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User'
+[90m[main 2023-08-01T09:54:00.336Z][0m [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User/settings.json'
+[90m[main 2023-08-01T09:54:00.337Z][0m StorageMainService: creating application storage
+[90m[main 2023-08-01T09:54:00.339Z][0m ElectronURLListener: waiting for window to be ready to handle URLs...
+[90m[main 2023-08-01T09:54:00.339Z][0m lifecycle (main): phase changed (value: 2)
+[90m[main 2023-08-01T09:54:00.339Z][0m windowsManager#open
+[90m[main 2023-08-01T09:54:00.339Z][0m windowsManager#open pathsToOpen [
+  {
+    backupPath: '/home/kiba/.config/Code - OSS/Backups/1690882894853',
+    remoteAuthority: undefined
+  }
+]
+[90m[main 2023-08-01T09:54:00.340Z][0m windowsManager#doOpenEmpty {
+  restore: true,
+  remoteAuthority: undefined,
+  filesToOpen: undefined,
+  forceNewWindow: true
+}
+[90m[main 2023-08-01T09:54:00.340Z][0m IPC Object URL: Registered new channel vscode:95bab3ab-cdeb-44ad-af92-aadb39a63b88.
+[90m[main 2023-08-01T09:54:00.341Z][0m window#validateWindowState: validating window state on 1 display(s) { mode: 1, x: 0, y: 0, width: 952, height: 506 }
+[90m[main 2023-08-01T09:54:00.341Z][0m window#validateWindowState: 1 monitor working area { x: 0, y: 0, width: 1920, height: 1080 }
+[90m[main 2023-08-01T09:54:00.341Z][0m window#ctor: using window state { mode: 1, x: 0, y: 0, width: 952, height: 506 }
+[3838:0801/115400.341576:WARNING:wayland_surface.cc(149)] Server doesn't support zcr_alpha_compositing_v1.
+[3838:0801/115400.341586:WARNING:wayland_surface.cc(164)] Server doesn't support overlay_prioritizer.
+[3838:0801/115400.341589:WARNING:wayland_surface.cc(178)] Server doesn't support surface_augmenter.
+[3838:0801/115400.341593:WARNING:wayland_surface.cc(193)] Server doesn't support wp_content_type_v1
+[3838:0801/115400.341595:WARNING:wayland_surface.cc(212)] Server doesn't support zcr_color_management_surface.
+[3838:0801/115400.347639:WARNING:xdg_activation.cc(86)] Cannot activate a window because no active windows found!
+[3838:0801/115400.347664:WARNING:xdg_activation.cc(86)] Cannot activate a window because no active windows found!
+[90m[main 2023-08-01T09:54:00.348Z][0m window#load: attempt to load window (id: 1)
+[90m[main 2023-08-01T09:54:00.353Z][0m windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 0, emptyToRestore: 1, emptyToOpen: 0)
+[90m[main 2023-08-01T09:54:00.353Z][0m lifecycle (main): phase changed (value: 3)
+[90m[main 2023-08-01T09:54:00.353Z][0m resolveShellEnv(): skipped (VSCODE_CLI is set)
+[90m[main 2023-08-01T09:54:00.353Z][0m update#ctor - updates are disabled as there is no update URL
+[90m[main 2023-08-01T09:54:00.396Z][0m resolveShellEnv(): skipped (VSCODE_CLI is set)
+[3877:0801/115400.424938:ERROR:gbm_wrapper.cc(255)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3877:0801/115400.425036:ERROR:gbm_pixmap_wayland.cc(75)] Cannot create bo with format= RGBA_8888 and usage=SCANOUT
+[3877:0801/115400.425089:ERROR:gbm_wrapper.cc(255)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3877:0801/115400.425140:ERROR:gbm_pixmap_wayland.cc(75)] Cannot create bo with format= RGBA_8888 and usage=GPU_READ
+[3877:0801/115400.425168:ERROR:shared_image_factory.cc(586)] CreateSharedImage: could not create backing.
+[3877:0801/115400.425194:ERROR:shared_image_factory.cc(422)] DestroySharedImage: Could not find shared image mailbox
+[3877:0801/115400.425250:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3877:0801/115400.425280:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3877:0801/115400.425327:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3877:0801/115400.425354:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3877:0801/115400.425808:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3877:0801/115400.425862:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3877:0801/115400.425939:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3877:0801/115400.425987:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3877:0801/115400.426047:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3877:0801/115400.426090:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3877:0801/115400.426178:ERROR:raster_decoder.cc(1143)]   RasterDecoderImpl: Context lost during MakeCurrent.
+[3877:0801/115400.426256:ERROR:gpu_service_impl.cc(988)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[3838:0801/115400.430371:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[3838:0801/115400.467645:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=8704
+[3838:0801/115400.467659:WARNING:gpu_process_host.cc(1338)] The GPU process has crashed 1 time(s)
+[3916:0801/115400.512356:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is egl, ANGLE is
+[3916:0801/115400.514627:WARNING:sandbox_linux.cc(380)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3838:0801/115400.515871:WARNING:gpu_process_host.cc(1014)] Reinitialized the GPU process after a crash. The reported initialization time was 45 ms
+[3916:0801/115400.525916:ERROR:gbm_wrapper.cc(255)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3916:0801/115400.526001:ERROR:gbm_pixmap_wayland.cc(75)] Cannot create bo with format= RGBA_8888 and usage=SCANOUT
+[3916:0801/115400.526073:ERROR:gbm_wrapper.cc(255)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3916:0801/115400.526133:ERROR:gbm_pixmap_wayland.cc(75)] Cannot create bo with format= RGBA_8888 and usage=GPU_READ
+[3916:0801/115400.526169:ERROR:shared_image_factory.cc(586)] CreateSharedImage: could not create backing.
+[3916:0801/115400.526205:ERROR:shared_image_factory.cc(422)] DestroySharedImage: Could not find shared image mailbox
+[3916:0801/115400.526272:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3916:0801/115400.526317:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3916:0801/115400.526948:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3916:0801/115400.526985:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3916:0801/115400.527040:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3916:0801/115400.527079:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3916:0801/115400.527160:ERROR:raster_decoder.cc(1143)]   RasterDecoderImpl: Context lost during MakeCurrent.
+[3916:0801/115400.527232:ERROR:gpu_service_impl.cc(988)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[3901:0801/115400.529366:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[3838:0801/115400.529531:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[3838:0801/115400.567505:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=8704
+[3838:0801/115400.567518:WARNING:gpu_process_host.cc(1338)] The GPU process has crashed 2 time(s)
+[3925:0801/115400.598990:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is egl, ANGLE is
+[3925:0801/115400.601256:WARNING:sandbox_linux.cc(380)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3838:0801/115400.602419:WARNING:gpu_process_host.cc(1014)] Reinitialized the GPU process after a crash. The reported initialization time was 31 ms
+[3925:0801/115400.611948:ERROR:gbm_wrapper.cc(255)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3925:0801/115400.612044:ERROR:gbm_pixmap_wayland.cc(75)] Cannot create bo with format= RGBA_8888 and usage=SCANOUT
+[3925:0801/115400.612107:ERROR:gbm_wrapper.cc(255)] Failed to export buffer to dma_buf: No such file or directory (2)
+[3925:0801/115400.612166:ERROR:gbm_pixmap_wayland.cc(75)] Cannot create bo with format= RGBA_8888 and usage=GPU_READ
+[3925:0801/115400.612199:ERROR:shared_image_factory.cc(586)] CreateSharedImage: could not create backing.
+[3925:0801/115400.612239:ERROR:shared_image_factory.cc(422)] DestroySharedImage: Could not find shared image mailbox
+[3925:0801/115400.612305:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3925:0801/115400.612346:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3925:0801/115400.612503:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3925:0801/115400.612559:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3925:0801/115400.612616:ERROR:shared_context_state.cc(547)] Failed to make current since context is marked as lost
+[3925:0801/115400.612648:ERROR:skia_output_surface_impl_on_gpu.cc(1889)] Failed to make current.
+[3925:0801/115400.612724:ERROR:raster_decoder.cc(1143)]   RasterDecoderImpl: Context lost during MakeCurrent.
+[3925:0801/115400.612784:ERROR:gpu_service_impl.cc(988)] Exiting GPU process because some drivers can't recover from errors. GPU process will restart shortly.
+[3838:0801/115400.615676:ERROR:command_buffer_proxy_impl.cc(325)] GPU state invalid after WaitForGetOffsetInRange.
+[3838:0801/115400.641353:ERROR:gpu_process_host.cc(991)] GPU process exited unexpectedly: exit_code=8704
+[3838:0801/115400.641365:WARNING:gpu_process_host.cc(1338)] The GPU process has crashed 3 time(s)
+[3934:0801/115400.655058:WARNING:sandbox_linux.cc(380)] InitializeSandbox() called with multiple threads in process gpu-process.
+[3838:0801/115400.656304:WARNING:gpu_process_host.cc(1014)] Reinitialized the GPU process after a crash. The reported initialization time was 11 ms
+[3901:0801/115401.172569:ERROR:command_buffer_proxy_impl.cc(128)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[3838:0801/115401.188368:INFO:CONSOLE(624)] "%cTRACE color: #888 workbench#open(): with configuration {"_":[],"diff":false,"merge":false,"add":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-gpu":false,"ms-enable-electron-run-as-node":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"disable-keytar":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"skip-add-to-recently-opened":false,"unity-launch":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"trace":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/kiba/.config/Code - OSS/logs/20230801T115400","machineId":"7c55bf8293a073ee9dafde026ab33af639eb919863673aec4fc7d694f4066d11","windowId":1,"mainPid":3838,"appRoot":"/usr/lib/code","execPath":"/usr/lib/electron22/electron","codeCachePath":"/home/kiba/.config/Code - OSS/CachedData/695af097c7bd098fbf017ce3ac85e09bbc5dda06","backupPath":"/home/kiba/.config/Code - OSS/Backups/1690882894853","profiles":{"home":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User/profiles","query":"","fragment":"","_formatted":null,"_fsPath":null},"all":[{"id":"__default__profile__","name":"Default","location":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User","query":"","fragment":"","_formatted":null,"_fsPath":null},"isDefault":true,"globalStorageHome":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User/globalStorage","query":"","fragment":"","_formatted":null,"_fsPath":"/home/kiba/.config/Code - OSS/User/globalStorage"},"settingsResource":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User/settings.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"keybindingsResource":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User/keybindings.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"tasksResource":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User/tasks.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"snippetsHome":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/User/snippets","query":"","fragment":"","_formatted":null,"_fsPath":null},"extensionsResource":{"scheme":"file","authority":"","path":"/home/kiba/.vscode-oss/extensions/extensions.json","query":"","fragment":"","_formatted":null,"_fsPath":null},"cacheHome":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/CachedProfilesData/__default__profile__","query":"","fragment":"","_formatted":null,"_fsPath":null}}],"profile":"[Circular]"},"homeDir":"/home/kiba","tmpDir":"/tmp","userDataDir":"/home/kiba/.config/Code - OSS","userEnv":{"VSCODE_IPC_HOOK":"/run/user/1000/vscode-683635ef-1.79-main.sock","VSCODE_NLS_CONFIG":"{\"locale\":\"en-us\",\"osLocale\":\"c\",\"availableLanguages\":{},\"_languagePackSupport\":true}"},"logLevel":1,"loggers":{"window":[],"global":[{"resource":{"scheme":"file","authority":"","path":"/home/kiba/.config/Code - OSS/logs/20230801T115400/main.log","query":"","fragment":"","_formatted":"file:///home/kiba/.config/Code%20-%20OSS/logs/20230801T115400/main.log","_fsPath":"/home/kiba/.config/Code - OSS/logs/20230801T115400/main.log"},"id":"main","name":"Main"}]},"product":{"quality":"stable","extensionsGallery":{"serviceUrl":"https://open-vsx.org/vscode/gallery","itemUrl":"https://open-vsx.org/vscode/item"},"linkProtectionTrustedDomains":["https://open-vsx.org"],"documentationUrl":"https://code.visualstudio.com/docs","requestFeatureUrl":"https://github.com/Microsoft/vscode/issues","introductoryVideosUrl":"https://go.microsoft.com/fwlink/?linkid=832146","tipsAndTricksUrl":"https://go.microsoft.com/fwlink/?linkid=852118","keyboardShortcutsUrlLinux":"https://go.microsoft.com/fwlink/?linkid=832144","commit":"695af097c7bd098fbf017ce3ac85e09bbc5dda06","date":"2023-06-17T15:54:35.168Z","nameShort":"Code - OSS","nameLong":"Code - OSS","applicationName":"code-oss","dataFolderName":".vscode-oss","win32MutexName":"vscodeoss","licenseName":"MIT","licenseUrl":"https://github.com/microsoft/vscode/blob/main/LICENSE.txt","serverLicenseUrl":"https://github.com/microsoft/vscode/blob/main/LICENSE.txt","serverGreeting":[],"serverLicense":[],"serverLicensePrompt":"","serverApplicationName":"code-server-oss","serverDataFolderName":".vscode-server-oss","tunnelApplicationName":"code-tunnel-oss","win32DirName":"Microsoft Code OSS","win32NameVersion":"Microsoft Code OSS","win32RegValueName":"CodeOSS","win32AppId":"{{E34003BB-9E10-4501-8C11-BE3FAA83F23F}","win32x64AppId":"{{D77B7E06-80BA-4137-BCF4-654B95CCEBC5}","win32arm64AppId":"{{D1ACE434-89C5-48D1-88D3-E2991DF85475}","win32UserAppId":"{{C6065F05-9603-4FC4-8101-B9781A25D88E}","win32x64UserAppId":"{{CC6B787D-37A0-49E8-AE24-8559A032BE0C}","win32arm64UserAppId":"{{3AEBF0C8-F733-4AD4-BADE-FDB816D53D7B}","win32AppUserModelId":"Microsoft.CodeOSS","win32ShellNameShort":"C&ode - OSS","win32TunnelServiceMutex":"vscodeoss-tunnelservice","win32TunnelMutex":"vscodeoss-tunnel","darwinBundleIdentifier":"com.visualstudio.code.oss","linuxIconName":"code-oss","licenseFileName":"LICENSE.txt","reportIssueUrl":"https://github.com/microsoft/vscode/issues/new","urlProtocol":"code-oss","webviewContentExternalBaseUrlTemplate":"https://{{uuid}}.vscode-cdn.net/insider/ef65ac1ba57f57f2a3961bfe94aa20481caca4c6/out/vs/workbench/contrib/webview/browser/pre/","builtInExtensions":[{"name":"ms-vscode.js-debug-companion","version":"1.0.18","repo":"https://github.com/microsoft/vscode-js-debug-companion","metadata":{"id":"99cb0b7f-7354-4278-b8da-6cc79972169d","publisherId":{"publisherId":"5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee","publisherName":"ms-vscode","displayName":"Microsoft","flags":"verified"},"publisherDisplayName":"Microsoft"}},{"name":"ms-vscode.js-debug","version":"1.78.0","repo":"https://github.com/microsoft/vscode-js-debug","metadata":{"id":"25629058-ddac-4e17-abba-74678e126c5d","publisherId":{"publisherId":"5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee","publisherName":"ms-vscode","displayName":"Microsoft","flags":"verified"},"publisherDisplayName":"Microsoft"}},{"name":"ms-vscode.vscode-js-profile-table","version":"1.0.3","repo":"https://github.com/microsoft/vscode-js-profile-visualizer","metadata":{"id":"7e52b41b-71ad-457b-ab7e-0620f1fc4feb","publisherId":{"publisherId":"5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee","publisherName":"ms-vscode","displayName":"Microsoft","flags":"verified"},"publisherDisplayName":"Microsoft"}}],"checksums":{"vs/base/parts/sandbox/electron-sandbox/preload.js":"K3EvES4OX+2j84EmP6zGrA","vs/workbench/workbench.desktop.main.js":"C/vbiO5FRlaPwifCT2iDsQ","vs/workbench/workbench.desktop.main.css":"fQV/MSyGyjT7nPSiUQD16Q","vs/workbench/api/node/extensionHostProcess.js":"DbdtTBVndyVCyQrcguEm7g","vs/code/electron-sandbox/workbench/workbench.html":"8gtodJHFV4Dyly++H/eM9g","vs/code/electron-sandbox/workbench/workbench.js":"64n/mi0IADyPUKK68ZJjfw"},"version":"1.79.2"},"isInitialStartup":true,"perfMarks":[{"name":"code/timeOrigin","startTime":1690883640066.39},{"name":"code/didStartMain","startTime":1690883640182},{"name":"code/willStartCrashReporter","startTime":1690883640188},{"name":"code/didStartCrashReporter","startTime":1690883640191},{"name":"code/mainAppReady","startTime":1690883640256},{"name":"code/willGenerateNls","startTime":1690883640257},{"name":"code/willLoadMainBundle","startTime":1690883640259},{"name":"code/fork/willLoadCode","startTime":1690883640271},{"name":"code/registerFilesystem/file","startTime":1690883640314},{"name":"code/didLoadMainBundle","startTime":1690883640318},{"name":"code/willStartMainServer","startTime":1690883640326},{"name":"code/didStartMainServer","startTime":1690883640328},{"name":"code/willCreateCodeWindow","startTime":1690883640340},{"name":"code/willRestoreCodeWindowState","startTime":1690883640340},{"name":"code/didRestoreCodeWindowState","startTime":1690883640341},{"name":"code/willCreateCodeBrowserWindow","startTime":1690883640341},{"name":"code/didCreateCodeBrowserWindow","startTime":1690883640347},{"name":"code/didCreateCodeWindow","startTime":1690883640347},{"name":"code/willOpenNewWindow","startTime":1690883640348}],"os":{"release":"6.4.7-arch1-1","hostname":"archlegion"},"autoDetectHighContrast":true,"autoDetectColorScheme":false,"accessibilitySupport":false,"colorScheme":{"dark":false,"highContrast":false},"fullscreen":false,"maximized":false,"partsSplash":{"zoomLevel":0,"baseTheme":"vs-dark","colorInfo":{"foreground":"#cccccc","background":"#1f1f1f","editorBackground":"#1f1f1f","titleBarBackground":"#181818","activityBarBackground":"#181818","sideBarBackground":"#181818","statusBarBackground":"#181818","statusBarNoFolderBackground":"#1f1f1f"},"layoutInfo":{"sideBarSide":"left","editorPartMinWidth":220,"titleBarHeight":0,"activityBarWidth":48,"sideBarWidth":238,"statusBarHeight":22,"windowBorder":false}}}", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115401.188458:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->SharedProcess#connect", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115402.339338:ERROR:service_worker_storage.cc(1933)] Failed to delete the database: Database IO error
+[90m[main 2023-08-01T09:54:02.855Z][0m lifecycle (main): phase changed (value: 4)
+[3838:0801/115404.356492:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->UtilityProcess#createWorker", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.357953:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->SharedProcess#connect: before acquirePort", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.358Z][0m [SharedProcess] on vscode:createSharedProcessMessageChannel
+[90m[main 2023-08-01T09:54:04.358Z][0m [UtilityProcess type: shared-process, pid: <none>]: creating new...
+[90m[main 2023-08-01T09:54:04.365Z][0m [UtilityProcess type: shared-process, pid: 3961]: successfully created
+[90m[main 2023-08-01T09:54:04.367Z][0m StorageMainService: creating workspace storage (1690882894853)
+[3838:0801/115404.368214:INFO:CONSOLE(2)] "%cElectron Security Warning (enableBlinkFeatures) font-weight: bold; This renderer process has additional "enableBlinkFeatures"
+  enabled. This exposes users of this app to some security risk. If you do not
+  need this feature, you should disable it.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged.", source: node:electron/js2c/sandbox_bundle (2)
+[3838:0801/115404.383182:INFO:CONSOLE(624)] "%cTRACE color: #888 [lifecycle] starting up (startup kind: 1)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.383601:INFO:CONSOLE(624)] "%cTRACE color: #888 lifecycle: phase changed (value: 2)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.451750:INFO:CONSOLE(624)] "%cTRACE color: #888 TimelineService#registerTimelineProvider: id=timeline.localHistory", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.466Z][0m Going to get password from keytar: code-oss.login account
+[3838:0801/115404.503055:INFO:CONSOLE(624)] "%cTRACE color: #888 [History stack global-default]: notifyNavigation() (editor: walkThrough://vscode_getting_started_page, event: <none>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.503292:INFO:CONSOLE(624)] "%cTRACE color: #888 [History stack global-default]: notifyNavigation() not ignoring (editor: walkThrough://vscode_getting_started_page, event: <none>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.503507:INFO:CONSOLE(624)] "%cTRACE color: #888 [History stack global-default]: onNonSelectionAwareEditorNavigation() (editor: walkThrough://vscode_getting_started_page, event: <none>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.503726:INFO:CONSOLE(624)] "%cTRACE color: #888 [History stack global-default]: add() (editor: walkThrough://vscode_getting_started_page, event: <none>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.503918:INFO:CONSOLE(624)] "%cTRACE color: #888 [History stack global-default]: index: 0, navigating: false
+- group: 0, editor: walkThrough://vscode_getting_started_page, selection: <none>
+			", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.518Z][0m [SharedProcess] IPC ready
+[90m[main 2023-08-01T09:54:04.519Z][0m Main->SharedProcess#connect: connection established
+[3838:0801/115404.519707:INFO:CONSOLE(624)] "%cTRACE color: #888 Layout#layout, height: 481, width: 952", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.526Z][0m [File Watcher (node.js)] Request to start watching: /home/kiba/.config/Code - OSS/User (excludes: <none>, includes: <all>),/home/kiba/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>)
+[90m[main 2023-08-01T09:54:04.527Z][0m [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User'
+[90m[main 2023-08-01T09:54:04.527Z][0m [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User/settings.json'
+[90m[main 2023-08-01T09:54:04.533Z][0m [SharedProcess] Overall ready
+[90m[main 2023-08-01T09:54:04.556Z][0m [File Watcher (node.js)] Request to start watching: /home/kiba/.vscode-oss/extensions (excludes: <none>, includes: <all>),/home/kiba/.vscode-oss/extensions/extensions.json (excludes: <none>, includes: <all>)
+[90m[main 2023-08-01T09:54:04.557Z][0m [File Watcher (node.js)] Started watching: '/home/kiba/.vscode-oss/extensions'
+[90m[main 2023-08-01T09:54:04.557Z][0m [File Watcher (node.js)] Started watching: '/home/kiba/.vscode-oss/extensions/extensions.json'
+[90m[main 2023-08-01T09:54:04.566Z][0m window#load: window reported ready (id: 1)
+[90m[main 2023-08-01T09:54:04.566Z][0m ElectronURLListener#flush(): flushing URLs
+[3838:0801/115404.582023:INFO:CONSOLE(624)] "%cTRACE color: #888 lifecycle: phase changed (value: 3)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.582208:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->PtyHost#connect: before acquirePort", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.582Z][0m [UtilityProcess type: ptyHost, pid: <none>]: creating new...
+[90m[main 2023-08-01T09:54:04.586Z][0m [UtilityProcess type: ptyHost, pid: 3977]: successfully created
+[90m[main 2023-08-01T09:54:04.586Z][0m [UtilityProcessWorker]: createWorker(window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+[90m[main 2023-08-01T09:54:04.587Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+[90m[main 2023-08-01T09:54:04.591Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 3978]: successfully created
+[3838:0801/115404.625632:INFO:CONSOLE(624)] "%cTRACE color: #888 Started scanning system extensions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.625949:INFO:CONSOLE(624)] "%cTRACE color: #888 Started scanning user extensions [object Object]", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.632326:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->SharedProcess#connect: connection established", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.642Z][0m [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+[90m[main 2023-08-01T09:54:04.646Z][0m [UtilityProcess id: 1, type: extensionHost, pid: 3989]: successfully created
+[3838:0801/115404.674605:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->PtyHost#connect: connection established", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.679075:INFO:CONSOLE(624)] "%cTRACE color: #888 Renderer->UtilityProcess#createWorkerChannel: connection established", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.684830:INFO:CONSOLE(624)] "%cDEBUG background: #eee; color: #888 Using cached extensions scan result vscode-userdata:/home/kiba/.vscode-oss/extensions/extensions.json", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.694513:INFO:CONSOLE(624)] "%cDEBUG background: #eee; color: #888 Using cached extensions scan result file:///usr/lib/code/extensions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.694728:INFO:CONSOLE(624)] "%cTRACE color: #888 Scanned system extensions: 88", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.696780:INFO:CONSOLE(624)] "%cDEBUG background: #eee; color: #888 ComputeTargetPlatform: linux-x64", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.697496:INFO:CONSOLE(624)] "%cTRACE color: #888 Scanned user extensions: 0", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.701547:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.bat, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.701780:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.clojure, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.701994:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.coffeescript, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.702211:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.configuration-editing, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.702418:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.cpp, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.702692:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.csharp, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.702925:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.css, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.703212:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.css-language-features, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.703459:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.dart, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.703711:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.debug-auto-launch, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.703928:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.debug-server-ready, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.704155:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.diff, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.704372:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.docker, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.704615:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.emmet, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.704847:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.extension-editing, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.705064:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.fsharp, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.705286:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.git, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.705498:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.git-base, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.705715:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.github, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.705931:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.github-authentication, extension kinds: [ui, workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.706163:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.go, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.706379:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.groovy, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.706633:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.grunt, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.706849:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.gulp, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.707081:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.handlebars, extension kinds: [ui, workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.707338:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.hlsl, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.707566:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.html, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.707790:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.html-language-features, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.708004:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.ini, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.708215:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.ipynb, extension kinds: [workspace, ui], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.709446:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.jake, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.709708:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.java, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.709942:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.javascript, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.710171:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.json, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.710450:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.json-language-features, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.710682:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.julia, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.710900:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.latex, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.711113:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.less, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.711346:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.log, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.711573:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.lua, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.711794:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.make, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.712009:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.markdown, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.712242:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.markdown-language-features, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.712458:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.markdown-math, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.712760:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.media-preview, extension kinds: [ui, workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.712969:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.merge-conflict, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.713171:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.microsoft-authentication, extension kinds: [ui, workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.713381:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for ms-vscode.js-debug, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.713607:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for ms-vscode.js-debug-companion, extension kinds: [ui], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.713928:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for ms-vscode.vscode-js-profile-table, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.714141:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.builtin-notebook-renderers, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.714346:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.npm, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.714557:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.objective-c, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.714761:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.perl, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.714967:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.php, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.715180:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.php-language-features, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.715391:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.powershell, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.715598:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.pug, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.715809:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.python, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.716010:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.r, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.716230:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.razor, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.716439:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.references-view, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.716655:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.restructuredtext, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.717084:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.ruby, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.717351:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.rust, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.717612:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.scss, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.717872:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.search-result, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.718130:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.shaderlab, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.718388:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.shellscript, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.718644:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.simple-browser, extension kinds: [ui, workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.718900:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.sql, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.719165:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.swift, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.719451:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-abyss, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.719727:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-defaults, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.719999:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-kimbie-dark, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.720278:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-monokai, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.720552:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-monokai-dimmed, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.720806:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-quietlight, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.721060:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-red, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.721334:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.vscode-theme-seti, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.721596:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-solarized-dark, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.721853:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-solarized-light, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.722077:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.theme-tomorrow-night-blue, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.722287:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.typescript, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.722511:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.typescript-language-features, extension kinds: [workspace], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.722730:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.vb, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.722940:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.xml, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.723152:INFO:CONSOLE(624)] "%cTRACE color: #888 pickRunningLocation for vscode.yaml, extension kinds: [ui, workspace, web], isInstalledLocally: true, isInstalledRemotely: false, preference: None => LocalProcess", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.844245:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Request to start watching: /home/kiba/.config/Code - OSS/User (excludes: <none>, includes: <all>),/home/kiba/.config/Code - OSS/User/settings.json (excludes: <none>, includes: <all>),/home/kiba/.config/Code - OSS/User/keybindings.json (excludes: <none>, includes: <all>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.855443:INFO:CONSOLE(624)] "%cTRACE color: #888 Error while resolving configuration file 'vscode-userdata:/home/kiba/.config/Code%20-%20OSS/User/tasks.json': Unable to read file 'vscode-userdata:/home/kiba/.config/Code - OSS/User/tasks.json' (Error: Unable to resolve nonexistent file 'vscode-userdata:/home/kiba/.config/Code - OSS/User/tasks.json')", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.857326:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Request to start watching: /home/kiba/.config/Code - OSS/User/tasks.json (excludes: <none>, includes: <all>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.857599:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User'", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.857833:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User/settings.json'", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.858059:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kiba/.config/Code - OSS/User/keybindings.json'", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.858291:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/kiba/.config/Code - OSS/User/tasks.json'", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115404.862552:INFO:CONSOLE(624)] "%cDEBUG background: #eee; color: #888 Could not get workspace hash for forwarded ports storage key.", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:04.874Z][0m resolveShellEnv(): skipped (VSCODE_CLI is set)
+[90m[main 2023-08-01T09:54:04.878Z][0m Terminal profile not validated # Pathnames of valid login shells. [ '# Pathnames of valid login shells.' ]
+[90m[main 2023-08-01T09:54:04.887Z][0m Terminal profile not validated # See shells(5) for details. [ '# See shells(5) for details.' ]
+[90m[main 2023-08-01T09:54:04.891Z][0m Terminal profile not validated zsh [ 'zsh' ]
+[90m[main 2023-08-01T09:54:04.894Z][0m Terminal profile not validated fish [ 'fish' ]
+[90m[main 2023-08-01T09:54:04.897Z][0m Terminal profile not validated tmux [ 'tmux' ]
+[90m[main 2023-08-01T09:54:04.914Z][0m Terminal profile not validated pwsh [ 'pwsh' ]
+[90m[main 2023-08-01T09:54:04.914Z][0m Validated terminal profiles [
+  {
+    profileName: 'bash',
+    path: '/usr/bin/bash',
+    args: undefined,
+    env: undefined,
+    overrideName: undefined,
+    isAutoDetected: undefined,
+    isDefault: false,
+    isUnsafePath: false,
+    requiresUnsafePath: undefined,
+    isFromPath: true,
+    icon: { id: 'terminal-bash' },
+    color: undefined
+  }
+]
+[3838:0801/115404.966518:INFO:CONSOLE(624)] "%cTRACE color: #888 Reconnected to terminals", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.040205:INFO:CONSOLE(624)] "%cTRACE color: #888 ChatService#constructor: Restored 0 persisted sessions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.098088:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.098747:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.099032:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.099702:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.124696:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.125603:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.126887:INFO:CONSOLE(624)] "%cTRACE color: #888 CommandService#executeCommand _setContext", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.167117:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Request to start watching: /home/kiba/.config/Code - OSS/User/snippets (excludes: <none>, includes: <all>)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.170280:INFO:CONSOLE(624)] "%cTRACE color: #888 [File Watcher (node.js)] Started watching: '/home/kiba/.config/Code - OSS/User/snippets'", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115405.187766:INFO:CONSOLE(624)] "%cDEBUG background: #eee; color: #888 [Registering Log Channel] File does not exist. Waiting for 1s to retry. file:///home/kiba/.config/Code%20-%20OSS/logs/20230801T115400/editSessions.log", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:06.647Z][0m menubarService#updateMenubar 1
+[3838:0801/115406.765504:INFO:CONSOLE(624)] "%cTRACE color: #888 ChatService#onWillSaveState: Persisting 0 sessions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115407.090651:INFO:CONSOLE(624)] "%cTRACE color: #888 lifecycle: phase changed (value: 4)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115407.104812:INFO:CONSOLE(624)] "%cTRACE color: #888 RunAutomaticTasks: Trying to run tasks.", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115407.108792:INFO:CONSOLE(624)] "%cTRACE color: #888 RunAutomaticTasks: Found 1 automatic tasks", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:07.167Z][0m menubarService#updateMenubar 1
+[3838:0801/115407.171371:INFO:CONSOLE(624)] "%cTRACE color: #888 ChatService#onWillSaveState: Persisting 0 sessions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:07.560Z][0m menubarService#updateMenubar 1
+[3838:0801/115407.596960:INFO:CONSOLE(624)] "%cTRACE color: #888 ChatService#onWillSaveState: Persisting 0 sessions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115408.007401:INFO:CONSOLE(624)] "%c INFO color: #33f [perf] Render performance baseline is 127ms", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:08.015Z][0m menubarService#updateMenubar 1
+[90m[main 2023-08-01T09:54:08.955Z][0m Lifecycle#window.on('close') - window ID 1
+[90m[main 2023-08-01T09:54:08.955Z][0m Lifecycle#unload() - window ID 1
+[3838:0801/115408.956363:INFO:CONSOLE(624)] "%cTRACE color: #888 [lifecycle] onBeforeUnload (reason: 1)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115408.959654:INFO:CONSOLE(624)] "%cTRACE color: #888 [lifecycle] onBeforeUnload continues without veto", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115408.960461:INFO:CONSOLE(624)] "%cTRACE color: #888 [lifecycle] onWillUnload (reason: 1)", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[3838:0801/115408.962221:INFO:CONSOLE(624)] "%cTRACE color: #888 ChatService#onWillSaveState: Persisting 0 sessions", source: vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js (624)
+[90m[main 2023-08-01T09:54:08.967Z][0m Lifecycle#onBeforeCloseWindow.fire() - window ID 1
+[90m[main 2023-08-01T09:54:08.969Z][0m IPC Object URL: Removed channel vscode:95bab3ab-cdeb-44ad-af92-aadb39a63b88.
+[90m[main 2023-08-01T09:54:08.970Z][0m Lifecycle#window.on('closed') - window ID 1
+[90m[main 2023-08-01T09:54:08.970Z][0m Lifecycle#onWillShutdown.fire()
+[90m[main 2023-08-01T09:54:08.970Z][0m Lifecycle#onWillShutdown - begin 'instanceLockfile'
+[90m[main 2023-08-01T09:54:08.970Z][0m [SharedProcess] onWillShutdown
+[90m[main 2023-08-01T09:54:08.970Z][0m storageMainService#onWillShutdown()
+[90m[main 2023-08-01T09:54:08.970Z][0m Lifecycle#onWillShutdown - begin 'applicationStorage'
+[90m[main 2023-08-01T09:54:08.970Z][0m Lifecycle#onWillShutdown - begin 'workspaceStorage'
+[90m[main 2023-08-01T09:54:08.971Z][0m [UtilityProcess id: 1, type: extensionHost, pid: 3989]: waiting to exit...
+[90m[main 2023-08-01T09:54:08.971Z][0m Lifecycle#onWillShutdown - begin 'extHostStarter'
+[90m[main 2023-08-01T09:54:08.971Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 3978]: attempting to kill the process...
+[90m[main 2023-08-01T09:54:08.971Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 3978]: successfully killed the process
+[90m[main 2023-08-01T09:54:08.971Z][0m Lifecycle#app.on(window-all-closed)
+[90m[main 2023-08-01T09:54:08.971Z][0m Lifecycle#app.on(before-quit)
+[90m[main 2023-08-01T09:54:08.971Z][0m Lifecycle#onBeforeShutdown.fire()
+[90m[main 2023-08-01T09:54:08.971Z][0m [WindowsStateHandler] onBeforeShutdown {
+  lastActiveWindow: {
+    workspaceIdentifier: undefined,
+    folder: undefined,
+    backupPath: '/home/kiba/.config/Code - OSS/Backups/1690882894853',
+    remoteAuthority: undefined,
+    uiState: [Object: null prototype] {
+      mode: 1,
+      x: 0,
+      y: 0,
+      width: 952,
+      height: 506
+    }
+  },
+  lastPluginDevelopmentHostWindow: undefined,
+  openedWindows: []
+}
+[90m[main 2023-08-01T09:54:08.972Z][0m Lifecycle#app.on(will-quit) - begin
+[90m[main 2023-08-01T09:54:08.973Z][0m [File Watcher (node.js)] Request to stop watching: /home/kiba/.config/Code - OSS/User,/home/kiba/.config/Code - OSS/User/settings.json
+[90m[main 2023-08-01T09:54:08.973Z][0m [File Watcher (node.js)] stopping file watcher on /home/kiba/.config/Code - OSS/User
+[90m[main 2023-08-01T09:54:08.973Z][0m [File Watcher (node.js)] stopping file watcher on /home/kiba/.config/Code - OSS/User/settings.json
+[90m[main 2023-08-01T09:54:08.973Z][0m Lifecycle#onWillShutdown - end 'instanceLockfile'
+[90m[main 2023-08-01T09:54:08.974Z][0m [UtilityProcess id: 1, type: extensionHost, pid: 3989]: received exit event with code 0
+[90m[main 2023-08-01T09:54:08.974Z][0m Extension host with pid 3989 exited with code: 0, signal: unknown.
+[90m[main 2023-08-01T09:54:08.974Z][0m Lifecycle#onWillShutdown - end 'extHostStarter'
+[90m[main 2023-08-01T09:54:08.975Z][0m [UtilityProcess id: 1, type: fileWatcher, pid: 3978]: received exit event with code 0
+[90m[main 2023-08-01T09:54:08.975Z][0m [UtilityProcessWorker]: terminated normally with code 0, signal: unknown
+[90m[main 2023-08-01T09:54:08.991Z][0m StorageMainService: closed workspace storage (1690882894853)
+[90m[main 2023-08-01T09:54:08.991Z][0m Lifecycle#onWillShutdown - end 'workspaceStorage'
+[90m[main 2023-08-01T09:54:08.991Z][0m StorageMainService: closed application storage
+[90m[main 2023-08-01T09:54:08.991Z][0m Lifecycle#onWillShutdown - end 'applicationStorage'
+[90m[main 2023-08-01T09:54:08.993Z][0m Lifecycle#app.on(will-quit) - after fireOnWillShutdown
+[90m[main 2023-08-01T09:54:08.993Z][0m Lifecycle#app.on(will-quit) - calling app.quit()
+[90m[main 2023-08-01T09:54:08.993Z][0m [UtilityProcess type: ptyHost, pid: 3977]: received exit event with code 0

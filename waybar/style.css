@@ -6,7 +6,7 @@
 
 window#waybar {
     background-color: rgba(43, 48, 59, 0.5);
-    border-bottom: 3px solid rgba(100, 114, 125, 0.5);
+    border-bottom: 3px solid rgba(16,15,15,1);
     color: #ffffff;
     transition-property: background-color;
     transition-duration: .5s;
@@ -59,14 +59,17 @@ button:hover {
 #tray,
 #mode,
 #idle_inhibitor,
-#mpd,
-#language{
+#mpd
+{
 	padding:0 10px;
 	margin : 4px  4px 4px 4px;
 	color : #ffffff;
 	border-radius : 5px;
 }
-
+#language{
+	padding-left:0;
+	padding-right:0;
+}
 #workspaces button {
     padding: 0 5px;
     background-color: transparent;
